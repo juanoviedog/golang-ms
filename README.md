@@ -9,7 +9,7 @@ A simple microservice for user registration and sign up using Golang.
 
 ## Authors
 
-- [@juanoviedog](https://www.github.com/juanoviedog)
+- [Juan Esteban Oviedo](https://www.github.com/juanoviedog)
 
 
 ## Tech Stack
